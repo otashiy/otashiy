@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @otashiy
+- 👋 Hi, I’m Otabek Qo'ldoshev
 - 👀 I’m interested in learning new technologies)
 - 🌱 I’m currently learning Typescript and Next.js
 - 💞️ I’m looking to collaborate on with high level companies)
